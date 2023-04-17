@@ -7,6 +7,8 @@ which I continue to learn by increasing my curiosity and interest day by day. I 
 
 <h3>Skills</h3>
 
+<h3>Social</h3>
+
 
 
 
