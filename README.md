@@ -26,7 +26,7 @@ which I continue to learn by increasing my curiosity and interest day by day. I 
 <a href="https://twitter.com/onurzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onurzan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//in/onurzan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/onurzan/" height="30" width="40" /></a>
 <a href="https://instagram.com/onurzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurzan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@zanonur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zanonur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUYp75N0dn9Zm3Qt_79qg4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zanonur" height="30" width="40" /></a>
 </p>
 
 
